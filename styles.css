@@ -1,0 +1,18 @@
+body{
+    font-family:Arial, sans-serif;
+    background-color: rgb(148, 201, 252);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+h1{
+    color: rgb(70, 110, 243);
+    font-size: 2rem;
+
+}   
+p {
+    color:rgb(104, 170, 245);
+    font-size: 2rem;
+}
